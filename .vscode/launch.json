@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "flutter_workshop_ui_project",
+      "request": "launch",
+      "type": "dart"
+    },
+    {
+      "name": "flutter_workshop_ui_project (Chrome)",
+      "request": "launch",
+      "type": "dart",
+      "args": ["-d", "chrome"]
+    }
+  ]
+}
